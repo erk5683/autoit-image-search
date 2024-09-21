@@ -1,0 +1,8 @@
+LIBRARY	"ImageSearchDLL"
+
+EXPORTS
+	ImageSearchExt
+	ImageSearchEx
+	ImageSearch	
+	ImageTest
+	
